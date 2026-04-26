@@ -26,7 +26,7 @@ I bridge the gap between business outcomes and technical architecture — transl
 | Metric | Value |
 |---|---|
 | 💰 Deals Influenced | **$1.7B+** across BFSI, Manufacturing & Retail |
-| 🏆 Pipeline Won (Q4 2024) | **$3M** — 6 consecutive deal closures |
+| 🏆 Pipeline Won (Q4 2025) | **$3M** — 6 consecutive deal closures |
 | 🎯 Workshops Delivered | **50+** across APAC |
 | ⚡ Proposal Turnaround Saved | **40%** faster via presales toolkit |
 | 💸 Cloud Cost Reduction | **25–30%** via FinOps governance frameworks |

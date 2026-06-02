@@ -17,7 +17,7 @@ I bridge the gap between business outcomes and technical architecture — transl
 
 - 🏢 **Currently:** Principal Consultant – Presales Cloud Solution Architect @ **Infosys**
 - 💼 **Previously:** Associate Consultant – Cloud Solutions @ **Tata Consultancy Services (11 years)**
-- 🌏 **Based in:** Chennai, India
+- 🌏 **Based in:** Chennai, India.
 
 ---
 
